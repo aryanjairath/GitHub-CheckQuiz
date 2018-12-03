@@ -3,4 +3,7 @@ public class GitHubQ{
 		public GitHubQ(String word){
 			word = "This is my GitHub Test";
 		}
+			public String toString(){
+				return word;
+			}
 }
