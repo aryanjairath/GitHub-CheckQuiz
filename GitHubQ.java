@@ -1,3 +1,4 @@
+//Aryan 
 public class GitHubQ{
 	private String word;
 		public GitHubQ(String word){
